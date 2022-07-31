@@ -1,0 +1,91 @@
+ [{
+    "name":"Palm Harbor",
+    "date":"09/25/2022",
+    "city":"bangalore",
+    "image":"images/home-1.webp",
+    "price":"2000",
+    "address":"#23, MG road",
+    "type":"appartment"
+},{
+    "name":"Beverly springfield",
+    "age":"07/27/2022",
+    "city":"bangalore",
+    "image":"images/home-2.jfif",
+    "price":"3000",
+    "address":"#3, Electronic city",
+    "type":"villa"
+},
+{
+    "name":"Beverly springfield",
+    "age":"03/30/2022",
+    "city":"pune",
+    "image":"images/home-3.jpg",
+    "price":"3000",
+    "address":"#1, Pune",
+    "type":"appartment"
+},
+{
+    "name":"Beverly springfield",
+    "age":"02/17/2022",
+    "city":"bangalore",
+    "image":"images/home-4.jpg",
+    "price":"3800",
+    "address":"#34, indra nagar",
+    "type":"house"
+},
+{
+    "name":"Beverly springfield",
+    "age":"11/11/2022",
+    "city":"pune",
+    "image":"images/home-5.jfif",
+    "price":"4000",
+    "address":"#23, Pune",
+    "type":"appartment"
+},
+{
+    "name":"Beverly springfield",
+    "age":"02/06/2022",
+    "city":"pune",
+    "image":"images/home-6.webp",
+    "price":"9000",
+    "address":"#99, pune",
+    "type":"appartment"
+},
+{
+    "name":"Beverly springfield",
+    "age":"03/05/2022",
+    "city":"bangalore",
+    "image":"images/home-7.jpg",
+    "price":"4600",
+    "address":"#100, shivajinagar",
+    "type":"house"
+},
+{
+    "name":"Beverly springfield",
+    "age":"02/13/2022",
+    "city":"chennai",
+    "image":"images/home-2.jfif",
+    "price":"5000",
+    "address":"#102, chennai",
+    "type":"villa"
+},
+{
+    "name":"Beverly springfield",
+    "age":"08/20/2022",
+    "city":"bangalore",
+    "image":"images/home-9.jpg",
+    "price":"5400",
+    "address":"#103, rajajinagar",
+    "type":"villa"
+
+},
+{
+    "name":"Beverly springfield",
+    "age":"07/15/2022",
+    "city":"pune",
+    "image":"images/home-10.jpg",
+    "price":"8000",
+    "address":"#105, pune",
+    "type":"house"
+}]
+
